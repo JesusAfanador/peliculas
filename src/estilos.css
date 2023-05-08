@@ -112,6 +112,7 @@ main{
 main > h1 {
    color: white;
    margin: 50px 20px 10px 0;
+   padding-left: 140px;
 }
 .peliculas {
    display: flex;
